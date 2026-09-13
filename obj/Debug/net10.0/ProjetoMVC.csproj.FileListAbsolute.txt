@@ -229,3 +229,4 @@ C:\dotnet\Projetos\ProjetoMVC\bin\Debug\net10.0\runtimes\win-x64\native\msalrunt
 C:\dotnet\Projetos\ProjetoMVC\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.csproj.AssemblyReference.cache
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.csproj.Up2Date
+C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.sourcelink.json
