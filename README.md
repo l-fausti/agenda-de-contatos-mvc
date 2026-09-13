@@ -130,7 +130,7 @@ SQL Server
 Visual Studio ou Visual Studio Code
 Entity Framework Core CLI, caso necessário para executar as migrations
 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/seu-usuario/projeto-mvc-pratica.git
 2. Acesse a pasta do projeto
 cd seu-repositorio
 3. Configure a conexão com o SQL Server
