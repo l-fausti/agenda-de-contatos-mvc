@@ -19,29 +19,29 @@ A interface utiliza uma identidade visual escura, navegação azul, cards, badge
 
 ### Página inicial
 
-![Página inicial da Agenda de Contatos](docs/images/home.png)
+<img width="1349" height="943" alt="image" src="https://github.com/user-attachments/assets/2ef8c11f-75eb-4354-9cbd-e518fce05c4c" />
 
 A página inicial apresenta a proposta da aplicação com uma navbar azul, um painel principal com a ilustração da agenda de contatos e cards que explicam os principais recursos do sistema.
 
 ### Listagem de contatos
 
-![Listagem de contatos](docs/images/contatos.png)
+<img width="1349" height="670" alt="image" src="https://github.com/user-attachments/assets/60be526a-2872-41a9-812f-645b922b5472" />
 
 A tela exibe os contatos cadastrados em uma tabela responsiva, com informações de nome, telefone, status e ações para visualizar, editar ou excluir.
 
 ### Edição de contato
 
-![Edição de contato](docs/images/editar-contato.png)
+<img width="1350" height="762" alt="image" src="https://github.com/user-attachments/assets/c526b751-a674-4632-85bd-1a201b48f497" />
 
 A tela de edição utiliza um formulário Razor com campos vinculados ao model `Contato`. Também possui um switch Bootstrap para indicar se o contato está ativo.
 
 ### Detalhes do contato
 
-![Detalhes do contato](docs/images/detalhes-contato.png)
+<img width="1408" height="664" alt="image" src="https://github.com/user-attachments/assets/c051867a-4152-4392-b794-92434a55f002" />
 
 A tela de detalhes apresenta as informações de um contato individualmente, incluindo nome, telefone, status e ações para editar ou retornar à listagem.
 
-![Tela de exclusão de contato](docs/images/deletar-contato.png)
+<img width="1375" height="680" alt="image" src="https://github.com/user-attachments/assets/b0d62044-1006-4dd9-a4f1-f5cabf8dac15" />
 
 A tela de exclusão é utilizada para confirmar a remoção definitiva de um registro. Ela foi pensada para evitar exclusões acidentais e reforçar a importância da ação.
 
