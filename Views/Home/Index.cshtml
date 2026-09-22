@@ -1,8 +1,41 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Início";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Seja bem vindo!!</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<section class="hero-card p-4 p-lg-5 mb-5">
+    <div class="row align-items-center g-4">
+        <div class="col-lg-7">
+            <span class="badge text-bg-primary mb-3">ASP.NET Core MVC</span>
+            <h1 class="display-5 fw-bold mb-3">Organize seus contatos com simplicidade.</h1>
+            <p class="lead text-secondary mb-4">Uma interface limpa e responsiva construída com componentes do Bootstrap para facilitar o uso em qualquer tela.</p>
+            <a asp-controller="Contato" asp-action="Index" class="btn btn-primary btn-lg px-4">Ver contatos <span aria-hidden="true">→</span></a>
+        </div>
+        <div class="col-lg-5 text-center d-none d-lg-block">
+            <img src="~/images/contatos-app.svg" alt="Ícone de contatos" class="hero-illustration" />
+        </div>
+    </div>
+</section>
+
+<div class="row g-4">
+    <div class="col-md-4">
+        <div class="card feature-card h-100 p-4">
+            <div class="feature-icon mb-3">＋</div>
+            <h2 class="h5">Criação rápida</h2>
+            <p class="text-secondary mb-0">Cadastre nome, telefone e status usando formulários acessíveis e fáceis de preencher.</p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card feature-card h-100 p-4">
+            <div class="feature-icon mb-3">✓</div>
+            <h2 class="h5">Visual organizado</h2>
+            <p class="text-secondary mb-0">Tabela responsiva, badges de status e ações destacadas tornam a consulta mais clara.</p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card feature-card h-100 p-4">
+            <div class="feature-icon mb-3">↗</div>
+            <h2 class="h5">Responsivo</h2>
+            <p class="text-secondary mb-0">O grid do Bootstrap adapta o conteúdo para celular, tablet e desktop automaticamente.</p>
+        </div>
+    </div>
 </div>

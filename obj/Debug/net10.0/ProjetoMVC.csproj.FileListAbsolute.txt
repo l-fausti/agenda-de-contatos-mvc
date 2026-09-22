@@ -21,7 +21,6 @@ C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\scopedcss\bundle\ProjetoMVC.styles.css
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\scopedcss\projectbundle\ProjetoMVC.bundle.scp.css
-C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\compressed\tc32uqxuwh-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\compressed\k35cetgru0-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\compressed\coq194fa94-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\compressed\zf29ld0mty-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -230,3 +229,5 @@ C:\dotnet\Projetos\ProjetoMVC\bin\Debug\net10.0\runtimes\win-x86\native\msalrunt
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.csproj.AssemblyReference.cache
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.csproj.Up2Date
 C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.sourcelink.json
+C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\compressed\tc32uqxuwh-{0}-soleunvybf-soleunvybf.gz
+C:\dotnet\Projetos\ProjetoMVC\obj\Debug\net10.0\compressed\qo81l4gzcs-{0}-uu1enfsi93-uu1enfsi93.gz
